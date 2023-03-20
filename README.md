@@ -8,7 +8,7 @@
   <a href="https://beacons.ai/TheXandiin">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=TheXandiin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheXandiin&layout=compact&langs_count=16&theme=dark"/>
-  <img alt="Xandiin-pic" height="170em" src="https://user-images.githubusercontent.com/128389631/226380807-e7e1c966-1c1d-4a32-9096-dec3f7f5f3a4.png">
+  <img alt="Xandiin-pic" align="right" height="170em" src="https://user-images.githubusercontent.com/128389631/226380807-e7e1c966-1c1d-4a32-9096-dec3f7f5f3a4.png">
 </div>
 <!--
 <div style="display: inline_block"><br>
